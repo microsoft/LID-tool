@@ -1,0 +1,32 @@
+HINDI dictionary created
+ENGLISH dictionary created
+sampleinp.txt
+['getLanguage.py', 'sampleinp.txt']
+time for mallet classification 1.1737194061279297
+Yeh     hi      0.999999999     en      1e-09
+mera    hi      0.999999999     en      1e-09
+pehla   hi      0.999999999     en      1e-09
+sentence        en      0.999999999     hi      1e-09
+hai     hi      0.999999999     en      1e-09 
+---------------------------------
+
+time for mallet classification 0.46548032760620117
+Aur     hi      0.999999999     en      1e-09
+ye      en      0.9276992223233895      hi      0.07230077767661053
+dusra   hi      0.999999999     en      1e-09 
+---------------------------------
+
+time for mallet classification 0.37943124771118164
+Main    en      0.9098939778371711      hi      0.09010602216282892
+kya     hi      0.999999999     en      1e-09
+karoon  hi      0.999999999     en      1e-09 
+---------------------------------
+
+time for mallet classification 0.38225436210632324
+This    en      0.8779217719993668      hi      0.1220782280006331
+is      en      0.9597935346160775      hi      0.040206465383922474
+main    en      0.4926395772768498      hi      0.5073604227231503
+sentence        en      0.999999999     hi      1e-09 
+---------------------------------
+
+written to sampleinp.txt_tagged

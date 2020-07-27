@@ -1,0 +1,4 @@
+1	Yeh mera pehla sentence hai
+2	Aur ye dusra
+3	Main kya karoon
+4	This is main sentence

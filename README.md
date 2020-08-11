@@ -204,12 +204,15 @@ Apart from the above set of projects, we also use free and openly hosted diction
 
 In the order of recency, most recent first :-
 
-1. Mohd Sanad Zaki Rizvi 
-2. Anirudh Srinivasan 
-3. Sebastin Santy
-4. Anshul Bawa
-5. Silvana Hartmann 
-6. Spandana Gella
+ - [Mohd Sanad Zaki Rizvi](https://github.com/mohdsanadzakirizvi) 
+ - Anirudh Srinivasan 
+ - Sebastin Santy
+ - Anshul Bawa
+ - Silvana Hartmann
+ - Royal Sequeira
+ - Gokul Chittaranjan 
+ - Jatin Sharma
+ - Spandana Gella
 
 
 # Contributing to this Code
